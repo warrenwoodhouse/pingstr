@@ -16,7 +16,7 @@ Installation Instructions
 > [CLICK HERE](https://warrenwoodhouse.blogspot.com/contact) to get in touch.
 > PiNgStR is intended to be for free personal use only and for commerical use upon request via the contact form.
 
-1. Read the [Code](https://github.com/warrenwoodhouse/pingstr/README.md#code)
+1. Read the [Code](https://github.com/warrenwoodhouse/pingstr/blob/main/README.md#code)
 2. Follow the instructions in the section titled Code on how to install the plugin on your website
 3. Enjoy!
 
